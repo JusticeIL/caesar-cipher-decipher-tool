@@ -24,8 +24,8 @@ Key components include:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/JusticeIL/python-decipher.git
-   cd python-decipher
+   git clone https://github.com/JusticeIL/caesar-cipher-decipher-tool.git
+   cd caesar-cipher-decipher-tool
    ```
 
 2. **Configure Input**  
