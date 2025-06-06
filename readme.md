@@ -45,7 +45,7 @@ Key components include:
    ```
    
 > 🔥 **Important:**  
-> Any python version must be pre-installed on your machine.
+> Any Python version must be pre-installed on your machine.
 
 ---
 
